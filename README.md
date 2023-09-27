@@ -1,63 +1,50 @@
-# CodeToMidi.v2
-CodeToMidi2 is a user-friendly application designed to let users create MIDI files by providing a sequence of notes and rhythms. It is equipped with a variety of features, including an interactive piano roll interface and melody generation from user prompts.
-Features:
-Instrument Selection:
 
-Choose from a wide range of instruments, from pianos and guitars to exotic instruments like sitars and kalimbas.
-Tempo Configuration:
+CodeToMidi2
+CodeToMidi2 is a user-friendly application designed to enable users to create MIDI files by providing a sequence of notes and rhythms. With an array of features, this application boasts an interactive piano roll interface and a melody generation tool based on user prompts.
 
-Set your preferred BPM (Beats Per Minute) to regulate the speed of your melody.
-Filename Entry:
+Features
+Instrument Selection: Choose from an expansive range of instruments, from classic choices like pianos and guitars to exotic instruments such as sitars and kalimbas.
 
-Customize the name of the generated MIDI file to make it unique to your creation.
-Interactive Piano Roll:
+Tempo Configuration: Define your desired BPM (Beats Per Minute) to set the pace of your melody.
 
-Draw notes directly onto a piano roll to create your own unique sequences.
-Rhythm Selection:
+Filename Entry: Personalize the name of your generated MIDI file to distinguish your creation.
 
-Select from predefined rhythms including Whole, Half, Quarter, Eighth, and Sixteenth notes.
-Generate Melody from Prompt:
+Interactive Piano Roll: Intuitively draw notes onto a piano roll to design your own unique sequences.
 
-Input a prompt and let the built-in MidiAI generate a melody for you.
-MIDI File Creation:
+Rhythm Selection: Opt from predefined rhythms, which include Whole, Half, Quarter, Eighth, and Sixteenth notes.
 
-Export your creation to a MIDI file with just one click.
-Error Notifications:
+Generate Melody from Prompt: Provide a prompt and let the inbuilt MidiAI craft a melody for you.
 
-Understand what's going wrong with clear error notifications.
-How to Use:
-Launch the Application:
+MIDI File Creation: With a single click, export your composition to a MIDI file.
 
-Double click the CodeToMidi2.exe to open the program.
-Select an Instrument:
+Error Notifications: Receive clear and concise error notifications for seamless troubleshooting.
 
-Use the dropdown menu labeled "Choose instrument" to select your preferred instrument.
-Set the Tempo:
+How to Use
+Launch the Application: Double-click the CodeToMidi2.exe to initiate the program.
 
-Enter your desired BPM in the "Enter tempo (bpm):" entry box.
-Enter Filename:
+Select an Instrument: Navigate to the dropdown menu labeled "Choose instrument" and pick your favored instrument.
 
-Customize your MIDI file's name by typing it into the "Enter filename:" entry box.
+Set the Tempo: In the "Enter tempo (bpm):" field, input your preferred BPM.
+
+Enter Filename: Assign a unique name to your MIDI file by entering it into the "Enter filename:" field.
+
 Create a Melody:
 
-Click on the piano roll to place notes.
-Change the rhythm by selecting from the available rhythm buttons.
-Alternatively, click the "Write a Prompt" button and type in a prompt to generate a melody using the built-in MidiAI.
+Interact with the piano roll to position notes.
+Adjust the rhythm by choosing from the available rhythm buttons.
+Alternatively, hit the "Write a Prompt" button and provide a prompt to harness the built-in MidiAI for melody generation.
 Save the MIDI:
 
-Once satisfied with the melody, click the "Create MIDI" button.
-Choose a directory to save the MIDI file.
-Troubleshooting:
+Upon finalizing the melody, press the "Create MIDI" button.
+Designate a directory to store the MIDI file.
+Troubleshooting
+Errors, if any, will be vividly displayed at the application's bottom, facilitating easy troubleshooting.
 
-Any errors will be displayed at the bottom of the application for easy troubleshooting.
-Prerequisites:
-Ensure you have the required dependencies installed. This application uses the mido library, tkinter, and a custom MidiAI module. The executable should contain all dependencies, but in case of issues, consider checking the required packages.
+Prerequisites
+Ensure all necessary dependencies are installed. This application utilizes the mido library, tkinter, and a proprietary MidiAI module. Although the executable encompasses all dependencies, if issues arise, rechecking the required packages is advised.
 
+Contributing
+Your contributions, issue reports, and feature requests are invaluable to us! Please refer to the issues page for any queries or feedback.
 
-Contributing:
-Contributions, issues, and feature requests are welcome! Feel free to check issues page.
-
-License:
-Please check the LICENSE file for more details.
-
-
+License
+For licensing details, please consult the LICENSE file in this repository.
